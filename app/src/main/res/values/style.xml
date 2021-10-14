@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+<resources>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#A81F1F</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="deneme" parent="Theme.AppCompat.Light.NoActionBar">
+
+
+        <item name="colorPrimary">#A81F1F</item>
+        <item name="colorPrimaryDark">#CF9797</item>
+    </style>
+
+
+</resources>
